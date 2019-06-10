@@ -28,3 +28,6 @@ http://ipfs.io/ipfs/QmXCSxk3ECr65ZGPYkHbn1ayREkjomGBhnJF4rAvDca9m4/ or
 
 
 First time loading from IPFS takes a while and might require an F5 ;)
+
+Copyright (c) 2018 Tyrion70
+Original Copyright (c) 2018 Michael Chan

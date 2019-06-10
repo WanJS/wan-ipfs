@@ -14,6 +14,13 @@
     "source-map-explorer": "^1.6.0",
     "web3": "^1.0.0-beta.26"
   },
+  "keywords": [
+    "wanchain, ipfs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandevs/wan-ipfs.git"
+  },
   "scripts": {
     "analyze": "source-map-explorer build/static/js/main.*",
     "start": "react-scripts start",
@@ -22,7 +29,11 @@
     "eject": "react-scripts eject",
     "upload": "node upload.js"
   },
-  "homepage": "./",
+  "author": "Tyrion70 <tyrion70@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/wandevs/wan-ipfs/issues"
+  },
+  "homepage": "https://github.com/wandevs/wan-ipfs#readme",
   "browserslist": {
     "development": [
       "last 2 chrome versions",
